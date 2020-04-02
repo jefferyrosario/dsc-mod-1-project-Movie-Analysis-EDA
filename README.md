@@ -6,14 +6,11 @@ Want to understand better understand which movies you may want to invest in? Thi
 
 ## Contents
 
-- student.ipynb
-This is a jupyter notebook that contains all of the code involved in performing the data analysis
+- student.ipynb - This is a jupyter notebook that contains all of the code involved in performing the data analysis
 
-- what kind of movie should you invest in.ppt
-A powerpoint presentation
+- what kind of movie should you invest in.ppt - A powerpoint presentation
 
-- zippedData
-.csv files that contain a collective of datasets from IMDB.com, TheMovieDB.com and RottenTomatoes.com
+- zippedData - .csv files that contain a collective of datasets from IMDB.com, TheMovieDB.com and RottenTomatoes.com
 
 ## Summary
 
