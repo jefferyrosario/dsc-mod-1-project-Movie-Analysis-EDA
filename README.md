@@ -16,7 +16,9 @@ A powerpoint presentation
 ## Summary
 
 Movie genre
+Gross profit margin indicates that these top 5 genres are the movies wth the highest profit margin.
 
+![alt text]https://github.com/jefferyrosario/dsc-mod-1-project-v2-1-onl01-dtsc-pt-012120/blob/master/genre_gross_profit.png
 
 
 https://github.com/learn-co-curriculum/dsc-mod-1-project-v2-1/blob/master/module1_project_rubric.pdf
