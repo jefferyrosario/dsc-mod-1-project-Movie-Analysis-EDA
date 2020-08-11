@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Want to understand better understand which movies you may want to invest in? This repo contains just that information.
+Want to understand better understand which movies you may want to invest in? This repo contains just that information at an analytical level. This repo contains an analysis on a few datasets combined from 3 websites: IMDB.com, TheMovieDB.com and RottenTomatoes.com.
 
 ## Contents
 
