@@ -3,3 +3,6 @@
 __pycache__
 *.db
 *.pytest_cache
+awesome.gif
+CONTRIBUTING.md
+LICENSE.md
