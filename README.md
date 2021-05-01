@@ -17,7 +17,6 @@ Want to understand better understand which movies you may want to invest in? Thi
 Gross profit margin and gross profit shows the amount of money you can make based on the genre of the movie. The values were calculated using the gross profit margin formula. Values used were the means of each genre.
 
 ![alt text](https://github.com/jefferyrosario/dsc-mod-1-project-v2-1-onl01-dtsc-pt-012120/blob/master/images/genre_profit_margin.png)
-https://github.com/jefferyrosario/dsc-mod-1-project-Movie-Analysis-EDA/blob/master/images/genre_gross_profit.png
 
 Gross profit margin indicates that most genres except for History, War, Western and TV Movie have at least a 60% profit margin. The worldwide vs domestic gross profit margin margin to investments in a wordlwide audience, not a domestic audience. 
 
